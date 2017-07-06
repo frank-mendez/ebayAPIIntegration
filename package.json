@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/frank-mendez/ebayAPIIntegration/issues"
   },
-  "homepage": "https://github.com/frank-mendez/ebayAPIIntegration#readme"
+  "homepage": "https://github.com/frank-mendez/ebayAPIIntegration#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "angular": "^1.6.4",
+    "bootstrap": "^3.3.7"
+  }
 }
